@@ -186,6 +186,51 @@
         </div>
     </div>
 
+    <div class="row">
+        <h2>Exemple de pr&eacute;sentation d'images dans des miniatures</h2>
+
+        <p>Ceci est un "component"</p>
+
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="img/Cercle 201411 007.jpeg" alt="rien du tout">
+
+                <div class="caption">
+                    <h3>Cercle</h3>
+
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, libero, minus?</p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="img/Cercle 201411 009.jpeg" alt="rien du tout">
+
+                <div class="caption">
+                    <h3>Cercle</h3>
+
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4">
+            <!-- miniatures -->
+            <div class="thumbnail">
+                <img src="img/Cercle 201411 011.jpeg" alt="rien du tout">
+
+                <div class="caption">
+                    <h3>Cercle</h3>
+
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque labore optio praesentium
+                        sed.</p>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <hr>
 
